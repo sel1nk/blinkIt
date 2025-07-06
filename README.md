@@ -2,7 +2,7 @@
 
 # 🛒 Power BI Dashboard – Blinkit Sales Analysis
 
-![Blinkit Dashboard](Blinkit_dash.png)
+![Blinkit Dashboard](Blinkit_Dash.png)
 
 Welcome! This is an interactive **Power BI dashboard** project that analyzes sales data for a Blinkit-style grocery service. It offers rich visual insights and dynamic filtering features, perfect for understanding sales trends and outlet performance.
 
